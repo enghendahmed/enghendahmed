@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enghendahmed
 - 👀 I’m interested in Programming in General and web Development especially ..
-- 🌱 I’m currently trying to make the Arabic Technical Community Better by sharing a usefl Technical unique Content ..
+- 🌱 I’m currently trying to make the Arabic Technical Community Better by sharing a useful Technical unique Content ..
 - 💞️ I’m looking to collaborate on projects , to work with a team ..
 - 📫 How to reach me ?
  this is my linkedin profile https://www.linkedin.com/in/enghendahmed/
