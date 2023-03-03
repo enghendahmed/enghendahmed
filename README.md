@@ -3,14 +3,6 @@
 - 🌱 I’m trying to make the Arabic Technical Community Better by sharing a useful Technical unique Content ..
 - 💞️ I’m looking to collaborate on projects , to work with a team ..
 
-- 📫 How to reach me ?
-
-    my e-mail : eng.hendahmed2022@gmail.com
- 
-    my linkedin profile : https://www.linkedin.com/in/enghendahmed/
- 
-    my facebook profile :  https://www.facebook.com/hendaahmed.eng
-
 
 
 
