@@ -1,17 +1,17 @@
-# Hi, I'm Hend Ahmed 👩‍💻
+# Hi, I'm Hend Ahmed 
 
 Aspiring Full-Stack Web Developer focused on building clean, responsive, and user-friendly web applications.
 
 ---
 
-## 🚀 About Me
+##  About Me
 - Currently learning and building real-world projects  
 - Strong focus on frontend development (HTML, CSS, SASS, JavaScript)  
 - Working towards becoming a full-stack developer  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5  
 - CSS3 / SASS
 - Bootstrap
@@ -19,9 +19,9 @@ Aspiring Full-Stack Web Developer focused on building clean, responsive, and use
 
 ---
 
-## 🌟 Featured Project
+##  Featured Project
 
-🚚 Responsive Delivery Website  
+Responsive Delivery Website  
 A modern responsive landing page with dark mode and clean UI.
 
 🔗 Live Demo:  
