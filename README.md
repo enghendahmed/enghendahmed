@@ -15,7 +15,8 @@ Aspiring Full-Stack Web Developer focused on building clean, responsive, and use
 - HTML5  
 - CSS3 / SASS
 - Bootstrap
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- React.js
 
 ---
 
